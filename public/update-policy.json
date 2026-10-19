@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "packageId": "com.anagnosi.reader",
+  "enabled": true,
+  "minimumSupportedVersionCode": 4,
+  "latestVersionCode": 6,
+  "latestVersionName": "0.4.2",
+  "message": "Please update Anagnosi to continue reading. Your books, notes and reading position stay on this device."
+}
